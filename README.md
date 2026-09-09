@@ -240,4 +240,5 @@ app/src/main/java/com/example/offgridmesh/
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0) — see [LICENSE](LICENSE) for details.
+
