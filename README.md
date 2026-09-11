@@ -242,3 +242,17 @@ app/src/main/java/com/example/offgridmesh/
 
 CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0) — see [LICENSE](LICENSE) for details.
 
+👥 Team Raging Bulls
+
+🔧 Technical Team
+Chirag Alva
+Ashwith A
+
+📋 Non-Technical 
+Abhinav R Bolar
+Aaron Dsouza
+
+🎨 Media
+Ashel Suzan
+
+
