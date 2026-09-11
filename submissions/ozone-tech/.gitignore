@@ -1,0 +1,19 @@
+# Mandatory Rain of Code rules
+node_modules/
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+
+# Gradle & Android Build Artifacts
+.gradle/
+build/
+app/build/
+.idea/
+.kotlin/
+local.properties
+*.apk
+*.aar
+*.keystore
+*.jks
